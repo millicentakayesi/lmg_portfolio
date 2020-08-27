@@ -24,7 +24,7 @@ li {
   }
   .main{
     padding: 100px 80px;
-    background-image: url(/Image/white.jpg);
+    /* background-image: url(/Image/white.jpg); */
     background-size: cover;
     width: auto;
     height: auto;
@@ -61,7 +61,7 @@ body {
     height: 600px;
     width: 60%;
   margin: 2rem auto; 
-    background-image: url("/images/white.jpg");
+    /* background-image: url("/images/white.jpg"); */
     background-color: #cccccc;
     text-align: center;
     background-color: rgba(241, 225, 74, 0.1);
