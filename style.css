@@ -61,7 +61,7 @@ body {
     height: 600px;
     width: 60%;
   margin: 2rem auto; 
-    background-image: url("/images/white.jpg");
+    background-image: url("https://res.cloudinary.com/tutcan/image/upload/v1598498792/white.jpg");
     background-color: #cccccc;
     text-align: center;
     background-color: rgba(241, 225, 74, 0.1);
